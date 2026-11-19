@@ -2,7 +2,7 @@
 **ESP32-Based 2D CNC Plotter**
 
 ## 👥 Team
-- **Team number:** 5
+- **Team number:** 7
 - **Members:**
   - Ducret Leturia, Damián Osvaldo
   - Leiva, Octavio
